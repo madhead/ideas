@@ -1,13 +1,11 @@
 ARG JAVA=17
 
-FROM openjdk:${JAVA} AS builder
-WORKDIR /ideas
-COPY app ./
-RUN ./gradlew clean install
-
 FROM openjdk:${JAVA}
-COPY --from=builder /ideas/app/build/install /opt/
-ENTRYPOINT ["/opt/app/bin/app"]
+
+COPY build/install/* /opt/ideas
+RUN microdnf install findutils
+
+ENTRYPOINT ["/opt/ideas/bin/app"]
 
 LABEL org.opencontainers.image.authors="madhead <siarhei.krukau@gmail.com>"
 LABEL org.opencontainers.image.source="https://github.com/madhead/ideas"
