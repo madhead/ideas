@@ -1,0 +1,13 @@
+name: Default
+
+on:
+  - push
+
+jobs:
+  check-gradle-version:
+    name: Check Gradle version
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: madhead/check-gradle-version@v1
+    continue-on-error: true
