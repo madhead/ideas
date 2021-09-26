@@ -5,6 +5,7 @@ ktor = "1.6.3"
 
 [plugins]
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+kotlin-plugin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 
 [libraries]
 kotlin-bom = { group = "org.jetbrains.kotlin", name = "kotlin-bom" }
@@ -14,3 +15,4 @@ koin-core = { group = "io.insert-koin", name = "koin-core", version.ref = "koin"
 
 ktor-client-java = { group = "io.ktor", name = "ktor-client-java", version.ref = "ktor" }
 ktor-client-serialization = { group = "io.ktor", name = "ktor-client-serialization", version.ref = "ktor" }
+ktor-client-auth = { group = "io.ktor", name = "ktor-client-auth", version.ref = "ktor" }
