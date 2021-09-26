@@ -2,3 +2,5 @@
 
 .gradle
 build
+
+http-client.private.env.json

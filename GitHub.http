@@ -1,0 +1,4 @@
+###
+GET https://api.github.com/repos/madhead/ideas/issues
+Authorization: token {{token}}
+Accept: application/vnd.github.squirrel-girl-preview
