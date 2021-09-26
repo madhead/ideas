@@ -17,6 +17,8 @@ jobs:
           distribution: adopt
           java-version: 16
 
+      - uses: gradle/wrapper-validation-action@v1
+
       - uses: burrunan/gradle-cache-action@v1
         with:
           job-id: release
