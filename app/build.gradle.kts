@@ -1,16 +1,15 @@
 plugins {
-    kotlin("jvm").version("1.5.0")
+    alias(libs.plugins.kotlin.jvm)
     application
 }
 
-repositories {
-    mavenCentral()
-}
-
 dependencies {
-    implementation(platform("org.jetbrains.kotlin:kotlin-bom"))
+    implementation(platform(libs.kotlin.bom))
 
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+    implementation(libs.kotlin.stdlib.jdk8)
+    implementation(libs.koin.core)
+    implementation(libs.ktor.client.java)
+    implementation(libs.ktor.client.serialization)
 }
 
 application {
