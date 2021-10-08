@@ -1,0 +1,20 @@
+[
+  {
+    "html_url": "",
+    "number": 1,
+    "title": "1",
+    "state": "open",
+    "labels": [
+      {
+        "name": "\uD83D\uDC1B issue"
+      }
+    ],
+    "comments": 0,
+    "pull_request": {
+      "url": "https://example.com"
+    },
+    "reactions": {
+      "total_count": 0
+    }
+  }
+]
