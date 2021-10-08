@@ -4,22 +4,7 @@ Lifelong backlog of ideas to implement.
 
 ---
 
-1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2) ┃ ✨ × 2
-    <details>
-      <summary>Detauls:</summary>
-
-      > All the existing time tracker apps suck in some way. Make one that:
-      > 
-      > - Is easy to use
-      > - Is highly automated
-      > - Uses tags instead of categories (https://github.com/madhead/madhead.me/issues/6)
-      > - Focuses on developers and engineers, with GitHub time-tracking being the priority
-      >   - but don't skimp on others
-      > - Don't use subscription model for monetization. Single-time purchase model shows respect to users. At least the app must be:
-      >   - Either cheap ($0.99/month max)
-      >   - Or provide long (year+) subscription periods, still being rather cheap
-    </details>
-
+1. 🚧 [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
@@ -49,7 +34,6 @@ Lifelong backlog of ideas to implement.
       > Like https://github.com/Heapy/Komodo-CRM
     </details>
 
-1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
     <details>
       <summary>Detauls:</summary>
@@ -68,6 +52,22 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Show ideas in progress in the GH developer's profile README](https://github.com/madhead/ideas/issues/3)
+1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2)
+    <details>
+      <summary>Detauls:</summary>
+
+      > All the existing time tracker apps suck in some way. Make one that:
+      > 
+      > - Is easy to use
+      > - Is highly automated
+      > - Uses tags instead of categories (https://github.com/madhead/madhead.me/issues/6)
+      > - Focuses on developers and engineers, with GitHub time-tracking being the priority
+      >   - but don't skimp on others
+      > - Don't use subscription model for monetization. Single-time purchase model shows respect to users. At least the app must be:
+      >   - Either cheap ($0.99/month max)
+      >   - Or provide long (year+) subscription periods, still being rather cheap
+    </details>
+
 1. [YouTube playlist: making a simple TG bot with tgbotapi and Markov chains](https://github.com/madhead/ideas/issues/12)
     <details>
       <summary>Detauls:</summary>
