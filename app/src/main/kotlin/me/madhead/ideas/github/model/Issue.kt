@@ -18,4 +18,6 @@ data class Issue(
     val pullRequest: PullRequest? = null,
     val body: String? = null,
     val reactions: Reactions,
-)
+) {
+    val isUnderConstruction: Boolean = assignee != null || assignees.isNotEmpty()
+}

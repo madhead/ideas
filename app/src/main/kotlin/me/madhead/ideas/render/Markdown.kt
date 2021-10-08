@@ -10,6 +10,11 @@ class Markdown : (Issue) -> String {
     }
 
     private fun header(issue: Issue): String {
+        val underConstruction = if (issue.isUnderConstruction) {
+            "\uD83D\uDEA7 "
+        } else {
+            null
+        }
         val link = "[${issue.title}](${issue.htmlUrl})"
         val title = if (issue.state == "closed") {
             "~~$link~~"
@@ -27,7 +32,7 @@ class Markdown : (Issue) -> String {
             null
         }
 
-        return title + (comments ?: "") + (reactions ?: "")
+        return (underConstruction ?: "") + title + (comments ?: "") + (reactions ?: "")
     }
 
     private fun details(issue: Issue): String? {

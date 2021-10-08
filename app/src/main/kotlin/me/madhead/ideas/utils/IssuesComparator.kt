@@ -13,7 +13,7 @@ compareBy<Issue>({
 }).thenBy({
     // In-progress first
     when {
-        it.assignee != null || it.assignees.isNotEmpty() -> 1
+        it.isUnderConstruction -> 1
         else -> 2
     }
 }).thenByDescending({
