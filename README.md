@@ -4,7 +4,6 @@ Lifelong backlog of ideas to implement.
 
 ---
 
-1. 🚧 [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
@@ -34,6 +33,7 @@ Lifelong backlog of ideas to implement.
       > Like https://github.com/Heapy/Komodo-CRM
     </details>
 
+1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
     <details>
       <summary>Detauls:</summary>
