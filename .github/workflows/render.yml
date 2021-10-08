@@ -2,6 +2,7 @@ name: Render
 
 on:
   workflow_dispatch:
+  issues:
   issue_comment:
   label:
   schedule:
