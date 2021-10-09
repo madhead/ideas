@@ -62,6 +62,7 @@ Lifelong backlog of ideas to implement.
       > - Is highly automated
       > - Uses tags instead of categories (https://github.com/madhead/madhead.me/issues/6)
       > - Focuses on developers and engineers, with GitHub time-tracking being the priority
+      >   - https://github.com/athul/waka-readme
       >   - but don't skimp on others
       > - Don't use subscription model for monetization. Single-time purchase model shows respect to users. At least the app must be:
       >   - Either cheap ($0.99/month max)
