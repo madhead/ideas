@@ -16,6 +16,20 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [GH developer's profile README](https://github.com/madhead/ideas/issues/3)
+    <details>
+      <summary>Detauls:</summary>
+
+      > - [ ] time spent on this README :)
+      > - [ ] badges
+      > - [ ] cv
+      > - [ ] ideas under construction
+      > - [ ] npx card (https://github.com/anmol098/anmol098)
+      > - [ ] streaks (https://github.com/DenverCoder1/DenverCoder1)
+      > - [ ] latest blog posts / best blog posts
+      > - [ ] dev.to
+      > - [ ] SO
+    </details>
+
 1. [GitHub contributors rewards](https://github.com/madhead/ideas/issues/5)
     <details>
       <summary>Detauls:</summary>
