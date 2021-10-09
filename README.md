@@ -20,6 +20,7 @@ Lifelong backlog of ideas to implement.
       <summary>Detauls:</summary>
 
       > - [ ] time spent on this README :)
+      > - [ ] followers / likes on GitHub, click to be in this list!
       > - [ ] badges
       > - [ ] cv
       > - [ ] ideas under construction
