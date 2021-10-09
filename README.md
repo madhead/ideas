@@ -15,6 +15,7 @@ Lifelong backlog of ideas to implement.
       > 
     </details>
 
+1. [GH developer's profile README](https://github.com/madhead/ideas/issues/3)
 1. [GitHub contributors rewards](https://github.com/madhead/ideas/issues/5)
     <details>
       <summary>Detauls:</summary>
@@ -51,7 +52,6 @@ Lifelong backlog of ideas to implement.
       > Because Anki MUST DIE.
     </details>
 
-1. [Show ideas in progress in the GH developer's profile README](https://github.com/madhead/ideas/issues/3)
 1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2)
     <details>
       <summary>Detauls:</summary>
