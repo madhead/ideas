@@ -29,6 +29,7 @@ Lifelong backlog of ideas to implement.
       > - [ ] latest blog posts / best blog posts
       > - [ ] dev.to
       > - [ ] SO
+      > - [ ] https://github.com/Coordinate-Cat/Coordinate-Cat
     </details>
 
 1. [GitHub contributors rewards](https://github.com/madhead/ideas/issues/5)
