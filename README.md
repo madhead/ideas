@@ -4,6 +4,7 @@ Lifelong backlog of ideas to implement.
 
 ---
 
+1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
@@ -43,7 +44,6 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
-1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Detauls:</summary>
