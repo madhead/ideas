@@ -44,6 +44,13 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15)
+    <details>
+      <summary>Detauls:</summary>
+
+      > - https://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
+      > - https://github.com/calebdoxsey/kubernetes-config
+    </details>
+
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Detauls:</summary>
