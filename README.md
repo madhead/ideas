@@ -85,10 +85,3 @@ Lifelong backlog of ideas to implement.
       >   - Or provide long (year+) subscription periods, still being rather cheap
     </details>
 
-1. [YouTube playlist: making a simple TG bot with tgbotapi and Markov chains](https://github.com/madhead/ideas/issues/12)
-    <details>
-      <summary>Detauls:</summary>
-
-      > https://thecode.media/markov-chain
-    </details>
-
