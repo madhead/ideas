@@ -4,6 +4,83 @@ Lifelong backlog of ideas to implement.
 
 ---
 
+1. 🚧 [Backup repos](https://github.com/madhead/ideas/issues/16)
+    <details>
+      <summary>Detauls:</summary>
+
+      > - [ ] madhead/.mirrors
+      > - [ ] madhead/2D
+      > - [ ] madhead/3D
+      > - [ ] madhead/akademik
+      > - [ ] madhead/appstore-receipts-validator-j
+      > - [ ] madhead/awesible
+      > - [ ] madhead/awesome-kotlin
+      > - [ ] madhead/awesome-opensearch
+      > - [ ] madhead/awesome-telegram
+      > - [ ] madhead/aws-junit5
+      > - [ ] madhead/belarusian_snakegame
+      > - [ ] madhead/cfg
+      > - [ ] madhead/check-gradle-version
+      > - [ ] madhead/CV-2019
+      > - [ ] madhead/docker-image
+      > - [ ] madhead/docker-oracle-xe
+      > - [ ] madhead/doktor
+      > - [ ] madhead/fleet
+      > - [ ] madhead/flutter-development-roadmap
+      > - [ ] madhead/flutter_roadmap
+      > - [ ] madhead/git
+      > - [ ] madhead/github-actions-demo
+      > - [ ] madhead/Google-Playstore-Dataset
+      > - [ ] madhead/graphviz
+      > - [ ] madhead/gta
+      > - [ ] madhead/hoodworking
+      > - [ ] madhead/ideas
+      > - [ ] madhead/imagemagick
+      > - [ ] madhead/ImgMacroBot
+      > - [ ] madhead/java-helloworld
+      > - [ ] madhead/junit5
+      > - [ ] madhead/kn-redis
+      > - [ ] madhead/kofta
+      > - [ ] madhead/KtRssReader
+      > - [ ] madhead/kubernetes-the-hard-way
+      > - [ ] madhead/lambda-proxy-integration-java
+      > - [ ] madhead/lv-alpina
+      > - [ ] madhead/madhead
+      > - [ ] madhead/madhead.github.io
+      > - [ ] madhead/madhead.me
+      > - [ ] madhead/minimo
+      > - [ ] madhead/oh-my-zsh
+      > - [ ] madhead/opinions-bot
+      > - [ ] madhead/packt4free
+      > - [ ] madhead/PlacesToPostYourStartup
+      > - [ ] madhead/progit2-ru
+      > - [ ] madhead/read-java-properties
+      > - [ ] madhead/recipes
+      > - [ ] madhead/repo.kotlin.link
+      > - [ ] madhead/reverse-interview
+      > - [ ] madhead/rms-support-letter.github.io
+      > - [ ] madhead/ru.madhead.github.io
+      > - [ ] madhead/saberlight
+      > - [ ] madhead/seaowl
+      > - [ ] madhead/semver-utils
+      > - [ ] madhead/shadow-jmh
+      > - [ ] madhead/simple-websockets-chat-app
+      > - [ ] madhead/skija
+      > - [ ] madhead/skija-playground
+      > - [ ] madhead/so57323260
+      > - [ ] madhead/stack-autologin
+      > - [ ] madhead/streisand
+      > - [ ] madhead/TelegramBotAPI
+      > - [ ] madhead/TelegramBotsList
+      > - [ ] madhead/telek
+      > - [ ] madhead/tyzenhaus
+      > - [ ] madhead/vectors
+      > - [ ] madhead/website
+      > - [ ] madhead/wireguard_aws
+      > - [ ] madhead/YWLTB
+      > - [ ] madhead/zip
+    </details>
+
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
