@@ -22,7 +22,7 @@ Lifelong backlog of ideas to implement.
       > - [ ] madhead/cfg
       > - [ ] madhead/check-gradle-version
       > - [ ] madhead/CV-2019
-      > - [ ] madhead/docker-image
+      > - [x] madhead/docker-image
       > - [ ] madhead/docker-oracle-xe
       > - [ ] madhead/doktor
       > - [ ] madhead/fleet
