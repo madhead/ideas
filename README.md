@@ -352,7 +352,7 @@ Lifelong backlog of ideas to implement.
       >   - [x] Merge button
       >   - [x] Branch protection rules
       >   - [x] Issue labels
-      >   - [ ] Issue templates
+      >   - [x] Issue templates
       >   - [ ] Dependabot
       >   - [ ] Topics
       >   - [ ] Sidebar (releases, env, packages)
