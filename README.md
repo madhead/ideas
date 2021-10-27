@@ -177,19 +177,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/CV-2019
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [x] madhead/docker-image
       >   - [x] Social image
       >   - [x] Features (wikis, issues, pages, sponsorship)
