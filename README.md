@@ -73,19 +73,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/awesible
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/awesome-kotlin
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
@@ -126,19 +113,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/aws-junit5
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/belarusian_snakegame
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
@@ -204,19 +178,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/doktor
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/fleet
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
@@ -359,19 +320,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/java-helloworld
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/junit5
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
@@ -412,19 +360,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/kubernetes-the-hard-way
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/lambda-proxy-integration-java
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
@@ -490,19 +425,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/oh-my-zsh
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/opinions-bot
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
@@ -671,19 +593,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/simple-websockets-chat-app
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/skija
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
@@ -711,19 +620,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/stack-autologin
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/streisand
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
@@ -802,19 +698,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/website
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/wireguard_aws
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
