@@ -349,9 +349,9 @@ Lifelong backlog of ideas to implement.
       > - [ ] madhead/imagemagick
       >   - [x] Social image
       >   - [x] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
+      >   - [x] Merge button
       >   - [ ] Branch protection rules
-      >   - [x] Issue labels
+      >   - [ ] Issue labels
       >   - [ ] Issue templates
       >   - [ ] Dependabot
       >   - [ ] Topics
