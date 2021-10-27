@@ -201,8 +201,8 @@ Lifelong backlog of ideas to implement.
       >   - [x] Topics
       >   - [x] Sidebar (releases, env, packages)
       >   - [x] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
+      >   - [x] CONTRIBUTING
+      >   - [x] CODE_OF_CONDUCT 
       > - [ ] madhead/docker-oracle-xe
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
