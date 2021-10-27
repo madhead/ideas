@@ -353,12 +353,12 @@ Lifelong backlog of ideas to implement.
       >   - [x] Branch protection rules
       >   - [x] Issue labels
       >   - [x] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
+      >   - [x] Dependabot
+      >   - [x] Topics
+      >   - [x] Sidebar (releases, env, packages)
       >   - [ ] README
       >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
+      >   - [x] CODE_OF_CONDUCT 
       > - [ ] madhead/ImgMacroBot
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
