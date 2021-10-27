@@ -356,8 +356,8 @@ Lifelong backlog of ideas to implement.
       >   - [x] Dependabot
       >   - [x] Topics
       >   - [x] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
+      >   - [x] README
+      >   - [x] CONTRIBUTING
       >   - [x] CODE_OF_CONDUCT 
       > - [ ] madhead/ImgMacroBot
       >   - [ ] Social image
