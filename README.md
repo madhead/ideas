@@ -194,8 +194,8 @@ Lifelong backlog of ideas to implement.
       >   - [x] Social image
       >   - [x] Features (wikis, issues, pages, sponsorship)
       >   - [x] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
+      >   - [x] Branch protection rules
+      >   - [x] Issue labels
       >   - [ ] Issue templates
       >   - [ ] Dependabot
       >   - [ ] Topics
