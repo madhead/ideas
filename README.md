@@ -198,9 +198,9 @@ Lifelong backlog of ideas to implement.
       >   - [x] Issue labels
       >   - [x] Issue templates
       >   - [x] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
+      >   - [x] Topics
+      >   - [x] Sidebar (releases, env, packages)
+      >   - [x] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/docker-oracle-xe
