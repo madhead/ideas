@@ -855,6 +855,13 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CODE_OF_CONDUCT 
     </details>
 
+1. 🚧 [Telegram channel with free Packt books ](https://github.com/madhead/ideas/issues/17)
+    <details>
+      <summary>Detauls:</summary>
+
+      > https://www.packtpub.com/free-learning
+    </details>
+
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
