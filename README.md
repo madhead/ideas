@@ -346,7 +346,7 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/imagemagick
+      > - [x] madhead/imagemagick
       >   - [x] Social image
       >   - [x] Features (wikis, issues, pages, sponsorship)
       >   - [x] Merge button
