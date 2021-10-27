@@ -255,19 +255,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/git
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/github-actions-demo
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
@@ -399,19 +386,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/kn-redis
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/kofta
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
@@ -619,19 +593,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/reverse-interview
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/rms-support-letter.github.io
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
@@ -737,19 +698,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/skija-playground
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/so57323260
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
