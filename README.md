@@ -347,11 +347,11 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/imagemagick
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
+      >   - [x] Social image
+      >   - [x] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
       >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
+      >   - [x] Issue labels
       >   - [ ] Issue templates
       >   - [ ] Dependabot
       >   - [ ] Topics
