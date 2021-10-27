@@ -463,19 +463,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/lv-alpina
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/madhead
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
