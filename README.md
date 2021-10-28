@@ -150,7 +150,20 @@ Lifelong backlog of ideas to implement.
       >   - [x] Sidebar (releases, env, packages)
       >   - [x] README
       >   - [x] CONTRIBUTING
-      >   - [x] CODE_OF_CONDUCT 
+      >   - [x] CODE_OF_CONDUCT
+      > - [ ] madhead/docker-imagemagick
+      >   - [ ] Social image
+      >   - [ ] Features (wikis, issues, pages, sponsorship)
+      >   - [ ] Merge button
+      >   - [ ] Branch protection rules
+      >   - [ ] Issue labels
+      >   - [ ] Issue templates
+      >   - [ ] Dependabot
+      >   - [ ] Topics
+      >   - [ ] Sidebar (releases, env, packages)
+      >   - [ ] README
+      >   - [ ] CONTRIBUTING
+      >   - [ ] CODE_OF_CONDUCT
       > - [ ] madhead/docker-oracle-xe
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
