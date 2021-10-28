@@ -385,19 +385,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [ ] madhead/packt4free
-      >   - [ ] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/read-java-properties
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
