@@ -294,19 +294,6 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
-      > - [x] madhead/imagemagick
-      >   - [x] Social image
-      >   - [x] Features (wikis, issues, pages, sponsorship)
-      >   - [x] Merge button
-      >   - [x] Branch protection rules
-      >   - [x] Issue labels
-      >   - [x] Issue templates
-      >   - [x] Dependabot
-      >   - [x] Topics
-      >   - [x] Sidebar (releases, env, packages)
-      >   - [x] README
-      >   - [x] CONTRIBUTING
-      >   - [x] CODE_OF_CONDUCT 
       > - [ ] madhead/ImgMacroBot
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
