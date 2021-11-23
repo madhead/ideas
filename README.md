@@ -582,6 +582,22 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CODE_OF_CONDUCT 
     </details>
 
+1. 🚧 [Enjoy the silence photo shoot](https://github.com/madhead/ideas/issues/18)
+    <details>
+      <summary>Detauls:</summary>
+
+      > A photo shoot inspired by the [iconic video](https://youtu.be/aGSKrC7dGcY) for the "Enjoy The Silence" song by Depeche Mode.
+      > 
+      > ![image](https://user-images.githubusercontent.com/577360/143146202-d5281b63-ccc3-46f0-ae19-3eb163faba9c.png)
+      > 
+      > Required inventory:
+      > 
+      > - Crown
+      > - Mantle
+      > - Deckchair
+      > 
+    </details>
+
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
