@@ -592,9 +592,9 @@ Lifelong backlog of ideas to implement.
       > 
       > Required inventory:
       > 
-      > - Crown
-      > - Mantle
-      > - Deckchair
+      > - [ ] Crown
+      > - [ ] Mantle
+      > - [ ] Deckchair
       > 
     </details>
 
