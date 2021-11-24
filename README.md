@@ -15,7 +15,7 @@ Lifelong backlog of ideas to implement.
       > Required inventory:
       > 
       > - [ ] Crown
-      > - [ ] Mantle
+      > - [ ] Mantle (A.K.A. royal cape)
       > - [ ] Deckchair
       > 
     </details>
