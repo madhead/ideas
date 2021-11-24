@@ -4,7 +4,7 @@ Lifelong backlog of ideas to implement.
 
 ---
 
-1. 🚧 [Enjoy the silence photo shoot](https://github.com/madhead/ideas/issues/18) ┃ 💬 × 1
+1. 🚧 [Enjoy the silence photo shoot](https://github.com/madhead/ideas/issues/18) ┃ 💬 × 2
     <details>
       <summary>Detauls:</summary>
 
