@@ -664,6 +664,8 @@ Lifelong backlog of ideas to implement.
       > Because Anki MUST DIE.
     </details>
 
+1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20)
+1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21)
 1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2)
     <details>
       <summary>Detauls:</summary>
