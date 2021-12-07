@@ -599,6 +599,9 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
+1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
+1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
+1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
@@ -638,7 +641,6 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
-1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Detauls:</summary>
@@ -664,8 +666,6 @@ Lifelong backlog of ideas to implement.
       > Because Anki MUST DIE.
     </details>
 
-1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20)
-1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21)
 1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2)
     <details>
       <summary>Detauls:</summary>
