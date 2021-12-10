@@ -641,6 +641,7 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
+1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Detauls:</summary>
