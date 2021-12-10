@@ -599,6 +599,7 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
+1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22) ┃ 💬 × 1
 1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
 1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
 1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
@@ -641,7 +642,6 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
-1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Detauls:</summary>
