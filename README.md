@@ -604,6 +604,7 @@ Lifelong backlog of ideas to implement.
 1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
 1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
+1. [3D printed protection cap for the chair spine](https://github.com/madhead/ideas/issues/23)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
       <summary>Detauls:</summary>
