@@ -643,6 +643,7 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
+1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Detauls:</summary>
