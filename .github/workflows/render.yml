@@ -11,8 +11,20 @@ on:
 concurrency: render
 
 jobs:
+  debounce:
+    runs-on: ubuntu-latest
+    outputs:
+      debounce: ${{ steps.debounce.outputs.debounce }}
+    steps:
+      - id: debounce
+        uses: fkirc/skip-duplicate-actions@master
+        with:
+          concurrent_skipping: always
+
   render:
     name: Render
+    needs: debounce
+    if: ${{ needs.debounce.outputs.debounce != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
