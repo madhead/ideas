@@ -8,8 +8,6 @@ on:
   schedule:
     - cron: '0 4 * * *'
 
-concurrency: render
-
 jobs:
   debounce:
     runs-on: ubuntu-latest
