@@ -6,7 +6,7 @@ Lifelong backlog of ideas to implement.
 
 1. 🚧 [Enjoy the silence photo shoot](https://github.com/madhead/ideas/issues/18) ┃ 💬 × 3
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > A photo shoot inspired by the [iconic video](https://youtu.be/aGSKrC7dGcY) for the "Enjoy The Silence" song by Depeche Mode.
       > 
@@ -22,7 +22,7 @@ Lifelong backlog of ideas to implement.
 
 1. 🚧 [Backup repos](https://github.com/madhead/ideas/issues/16)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > - [ ] madhead/.mirrors
       >   - [ ] Social image
@@ -598,8 +598,8 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CODE_OF_CONDUCT 
     </details>
 
+1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22) ┃ 💬 × 1 ┃ ✨ × 1
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
-1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22) ┃ 💬 × 1
 1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
 1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
 1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
@@ -607,7 +607,7 @@ Lifelong backlog of ideas to implement.
 1. [3D printed protection cap for the chair spine](https://github.com/madhead/ideas/issues/23)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > Would you believe that there are no good libs yet!
       > 
@@ -617,7 +617,7 @@ Lifelong backlog of ideas to implement.
 
 1. [GH developer's profile README](https://github.com/madhead/ideas/issues/3)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > - [ ] time spent on this README :)
       > - [ ] followers / likes on GitHub, click to be in this list!
@@ -634,7 +634,7 @@ Lifelong backlog of ideas to implement.
 
 1. [GitHub contributors rewards](https://github.com/madhead/ideas/issues/5)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > Stolen from borodutch…
       > 
@@ -646,7 +646,7 @@ Lifelong backlog of ideas to implement.
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > Like https://github.com/Heapy/Komodo-CRM
     </details>
@@ -654,7 +654,7 @@ Lifelong backlog of ideas to implement.
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > Stolen from borodutch
       > 
@@ -664,14 +664,21 @@ Lifelong backlog of ideas to implement.
 
 1. [SRS](https://github.com/madhead/ideas/issues/4)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > Because Anki MUST DIE.
     </details>
 
+1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
+    <details>
+      <summary>Details:</summary>
+
+      > Because Calibre sucks, and local storage doesn't scale.
+    </details>
+
 1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > All the existing time tracker apps suck in some way. Make one that:
       > 
@@ -688,7 +695,7 @@ Lifelong backlog of ideas to implement.
 
 1. [YouTube playlist: making a simple TG bot with tgbotapi and Markov chains](https://github.com/madhead/ideas/issues/12)
     <details>
-      <summary>Detauls:</summary>
+      <summary>Details:</summary>
 
       > https://thecode.media/markov-chain
     </details>
