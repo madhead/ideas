@@ -10,9 +10,10 @@ on:
 
 jobs:
   debounce:
+    name: Debounce
     runs-on: ubuntu-latest
     outputs:
-      debounce: ${{ steps.debounce.outputs.debounce }}
+      debounce: ${{ steps.debounce.outputs.should_skip }}
     steps:
       - id: debounce
         uses: fkirc/skip-duplicate-actions@master
@@ -22,7 +23,7 @@ jobs:
   render:
     name: Render
     needs: debounce
-    if: ${{ needs.debounce.outputs.should_skip != 'true' }}
+    if: ${{ needs.debounce.outputs.debounce != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
