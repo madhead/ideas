@@ -670,6 +670,7 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Test](https://github.com/madhead/ideas/issues/27)
+1. [Test](https://github.com/madhead/ideas/issues/28)
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
     <details>
       <summary>Details:</summary>
