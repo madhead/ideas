@@ -39,7 +39,7 @@ class Markdown : (Issue) -> String {
         return issue.body?.let { body ->
             """
                 <details>
-                  <summary>Detauls:</summary>
+                  <summary>Details:</summary>
 
 ${body.lines().joinToString(separator = "\n") { "                  > $it" }}
                 </details>
