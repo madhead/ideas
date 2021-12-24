@@ -669,6 +669,7 @@ Lifelong backlog of ideas to implement.
       > Because Anki MUST DIE.
     </details>
 
+1. [Test](https://github.com/madhead/ideas/issues/30)
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
     <details>
       <summary>Details:</summary>
