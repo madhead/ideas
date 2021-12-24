@@ -17,12 +17,12 @@ jobs:
       - id: debounce
         uses: fkirc/skip-duplicate-actions@master
         with:
-          concurrent_skipping: always
+          concurrent_skipping: same_content_newer
 
   render:
     name: Render
     needs: debounce
-    if: ${{ needs.debounce.outputs.debounce != 'true' }}
+    if: ${{ needs.debounce.outputs.should_skip != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
