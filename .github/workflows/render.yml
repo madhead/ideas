@@ -19,6 +19,7 @@ jobs:
         uses: fkirc/skip-duplicate-actions@master
         with:
           concurrent_skipping: same_content_newer
+          skip_after_successful_duplicate: false
 
   render:
     name: Render
