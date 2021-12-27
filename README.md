@@ -644,6 +644,7 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
+1. [K8S knob for encoder](https://github.com/madhead/ideas/issues/32)
 1. [Life CRM](https://github.com/madhead/ideas/issues/7)
     <details>
       <summary>Details:</summary>
