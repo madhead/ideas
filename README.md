@@ -20,7 +20,6 @@ Lifelong backlog of ideas to implement.
       > 
     </details>
 
-1. 🚧 [3D printed protection cap for the chair spine](https://github.com/madhead/ideas/issues/23)
 1. 🚧 [Backup repos](https://github.com/madhead/ideas/issues/16)
     <details>
       <summary>Details:</summary>
