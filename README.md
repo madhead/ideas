@@ -652,6 +652,7 @@ Lifelong backlog of ideas to implement.
       > Like https://github.com/Heapy/Komodo-CRM
     </details>
 
+1. [MS Teams + GitHub PRs](https://github.com/madhead/ideas/issues/33)
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
     <details>
