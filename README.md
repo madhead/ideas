@@ -653,13 +653,6 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [MS Teams + GitHub PRs](https://github.com/madhead/ideas/issues/33)
-    <details>
-      <summary>Details:</summary>
-
-      > - PR _opened_ → notification
-      > - _Stale_ PR → notification
-    </details>
-
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
     <details>
