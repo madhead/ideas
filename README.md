@@ -600,7 +600,6 @@ Lifelong backlog of ideas to implement.
 
 1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22) ┃ 💬 × 1 ┃ ✨ × 1
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
-1. [MS Teams + GitHub PRs](https://github.com/madhead/ideas/issues/33) ┃ 💬 × 1
 1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
 1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
 1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
