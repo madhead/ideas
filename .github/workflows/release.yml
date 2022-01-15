@@ -19,12 +19,10 @@ jobs:
 
       - uses: gradle/wrapper-validation-action@v1
 
-      - uses: burrunan/gradle-cache-action@v1
+      - uses: gradle/gradle-build-action@v2
         with:
-          job-id: release
-          read-only: ${{ github.ref != 'refs/heads/source' }}
-
-      - run: ./gradlew clean install
+          arguments: clean install
+          cache-read-only: ${{ github.ref != 'refs/heads/source' }}
 
       - uses: docker/login-action@v1
         with:
