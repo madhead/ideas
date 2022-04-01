@@ -673,6 +673,13 @@ Lifelong backlog of ideas to implement.
       > 
     </details>
 
+1. [Recipes management app](https://github.com/madhead/ideas/issues/38)
+    <details>
+      <summary>Details:</summary>
+
+      > - [256-recipes/yuml](https://github.com/256-recipes/yuml)
+    </details>
+
 1. [SRS](https://github.com/madhead/ideas/issues/4)
     <details>
       <summary>Details:</summary>
