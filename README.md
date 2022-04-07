@@ -16,7 +16,7 @@ Lifelong backlog of ideas to implement.
       > 
       > - [ ] Crown
       > - [ ] Mantle (A.K.A. royal cape)
-      > - [ ] Deckchair
+      > - [x] Deckchair
       > 
     </details>
 
