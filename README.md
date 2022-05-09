@@ -605,6 +605,16 @@ Lifelong backlog of ideas to implement.
 1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
 1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
 1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
+1. [AlternativeTo but for offline](https://github.com/madhead/ideas/issues/39)
+    <details>
+      <summary>Details:</summary>
+
+      > > Я кстати думал на днях запилить сервис альтернатив. Условно говоря выбираешь минск, выбираешь заведение и видишь его "аналоги" в другой стране
+      > 
+      > https://t.me/c/1325501406/11114
+      > 
+    </details>
+
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
