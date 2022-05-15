@@ -598,6 +598,13 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CODE_OF_CONDUCT 
     </details>
 
+1. 🚧 [Events from FB pages I like → Telegram / RSS](https://github.com/madhead/ideas/issues/40)
+    <details>
+      <summary>Details:</summary>
+
+      > Just because FB sucks.
+    </details>
+
 1. 🚧 [Publish Qodana results like mikepenz/action-junit-report](https://github.com/madhead/ideas/issues/36)
 1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22) ┃ 💬 × 1 ┃ ✨ × 1
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
