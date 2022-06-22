@@ -607,6 +607,13 @@ Lifelong backlog of ideas to implement.
 
 1. 🚧 [Publish Qodana results like mikepenz/action-junit-report](https://github.com/madhead/ideas/issues/36)
 1. [Kotlin Serialization for DynamoDB's AttributeValues](https://github.com/madhead/ideas/issues/22) ┃ 💬 × 1 ┃ ✨ × 1
+1. [Dynamic Telegram avatar / username](https://github.com/madhead/ideas/issues/41) ┃ 💬 × 1
+    <details>
+      <summary>Details:</summary>
+
+      > Telegram supports animated avatars. Make a userbot to make use of it.
+    </details>
+
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
 1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
 1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
@@ -623,13 +630,6 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
-1. [Dynamic Telegram avatar / username](https://github.com/madhead/ideas/issues/41)
-    <details>
-      <summary>Details:</summary>
-
-      > Telegram supports animated avatars. Make a userbot to make use of it.
-    </details>
-
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
       <summary>Details:</summary>
