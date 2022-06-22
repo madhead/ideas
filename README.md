@@ -623,6 +623,13 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
+1. [Dynamic Telegram avatar / username](https://github.com/madhead/ideas/issues/41)
+    <details>
+      <summary>Details:</summary>
+
+      > Telegram supports animated avatars. Make a userbot to make use of it.
+    </details>
+
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
       <summary>Details:</summary>
