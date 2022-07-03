@@ -630,6 +630,20 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
+1. [Database of movies (shorts, clips, etc.) indexed by location](https://github.com/madhead/ideas/issues/42)
+    <details>
+      <summary>Details:</summary>
+
+      > Sometimes a location plays the most important role in a movie or a short clip. IMHO, even bigger, then actors. Examples are
+      > 
+      > - https://youtu.be/rQ7tMWOCQlM  — beautiful Istanbul shots
+      > - https://www.imdb.com/title/tt0211915/ — Amelie (in Paris)
+      > - https://www.imdb.com/title/tt0108052/ — shot in Kraków (although it lacks of really good or iconic shots)
+      > - https://youtu.be/MmvpbLdaIRs — Tamil movie shot in Gdańsk, lol (although the location is secondary here)
+      > 
+      > As a photographer (videographer) I want to quickly find inspiration for my shots based on these and similar works.
+    </details>
+
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
       <summary>Details:</summary>
