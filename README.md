@@ -725,6 +725,38 @@ Lifelong backlog of ideas to implement.
       > Because Anki MUST DIE.
     </details>
 
+1. [Skills learning paths service / app](https://github.com/madhead/ideas/issues/43)
+    <details>
+      <summary>Details:</summary>
+
+      > Every complex skill could be decomposed into a DAG of smaller, less complex, skills. Just like a tree of talents in an RPG game. E.g. being "full-stack developer" could be decomposed like this:
+      > 
+      > ```mermaid
+      > graph TD;
+      >     JS[JavaScript]
+      >     R[React]
+      >     CSS[CSS]
+      >     F[Front-end]
+      > 
+      >     K[Kotlin]
+      >     DB[Databases]
+      >     B[Back-end]
+      > 
+      >     FS[Full-stack]
+      > 
+      >     JS --> R;
+      >     R --> F;
+      >     CSS --> F;
+      >     F --> FS;
+      > 
+      >     K --> B;
+      >     DB --> B;
+      >     B --> FS;
+      > ```
+      > 
+      > The idea is to have a service / app to create and visualize these DAGs.
+    </details>
+
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
     <details>
       <summary>Details:</summary>
