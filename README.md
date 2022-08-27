@@ -701,6 +701,7 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
+1. [OSS FatSecret app with Google Fit integration](https://github.com/madhead/ideas/issues/44)
 1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
     <details>
       <summary>Details:</summary>
