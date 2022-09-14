@@ -180,19 +180,19 @@ Lifelong backlog of ideas to implement.
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT
-      > - [ ] madhead/docker-oracle-xe
+      > - [x] madhead/docker-oracle-xe
       >   - [x] Social image
-      >   - [ ] Features (wikis, issues, pages, sponsorship)
-      >   - [ ] Merge button
-      >   - [ ] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
-      >   - [ ] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
+      >   - [x] Features (wikis, issues, pages, sponsorship)
+      >   - [x] Merge button
+      >   - [x] Branch protection rules
+      >   - [x] Issue labels
+      >   - [x] Issue templates
+      >   - [x] Dependabot
+      >   - [x] Topics
+      >   - [x] Sidebar (releases, env, packages)
+      >   - [x] README
+      >   - [x] CONTRIBUTING
+      >   - [x] CODE_OF_CONDUCT 
       > - [ ] madhead/doktor
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
