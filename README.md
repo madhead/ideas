@@ -167,7 +167,7 @@ Lifelong backlog of ideas to implement.
       >   - [x] README
       >   - [x] CONTRIBUTING
       >   - [x] CODE_OF_CONDUCT
-      > - [ ] madhead/docker-imagemagick
+      > - [x] madhead/docker-imagemagick
       >   - [x] Social image
       >   - [x] Features (wikis, issues, pages, sponsorship)
       >   - [x] Merge button
