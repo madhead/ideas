@@ -20,7 +20,7 @@ Lifelong backlog of ideas to implement.
       > 
     </details>
 
-1. 🚧 [Backup repos](https://github.com/madhead/ideas/issues/16)
+1. 🚧 [Backup repos](https://github.com/madhead/ideas/issues/16) ┃ 💬 × 1
     <details>
       <summary>Details:</summary>
 
