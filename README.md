@@ -468,7 +468,7 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/semver-utils
       >   - [x] Social image
-      >   - [x] Features (wikis, issues, pages, sponsorship)
+      >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [x] Merge button
       >   - [x] Branch protection rules
       >   - [x] Issue labels
@@ -476,9 +476,9 @@ Lifelong backlog of ideas to implement.
       >   - [x] Dependabot
       >   - [x] Topics
       >   - [x] Sidebar (releases, env, packages)
-      >   - [ ] README
-      >   - [ ] CONTRIBUTING
-      >   - [ ] CODE_OF_CONDUCT 
+      >   - [x] README
+      >   - [x] CONTRIBUTING
+      >   - [x] CODE_OF_CONDUCT 
       > - [ ] madhead/shadow-jmh
       >   - [ ] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
