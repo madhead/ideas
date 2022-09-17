@@ -471,10 +471,10 @@ Lifelong backlog of ideas to implement.
       >   - [x] Features (wikis, issues, pages, sponsorship)
       >   - [x] Merge button
       >   - [x] Branch protection rules
-      >   - [ ] Issue labels
-      >   - [ ] Issue templates
-      >   - [ ] Dependabot
-      >   - [ ] Topics
+      >   - [x] Issue labels
+      >   - [x] Issue templates
+      >   - [x] Dependabot
+      >   - [x] Topics
       >   - [ ] Sidebar (releases, env, packages)
       >   - [ ] README
       >   - [ ] CONTRIBUTING
