@@ -475,7 +475,7 @@ Lifelong backlog of ideas to implement.
       >   - [x] Issue templates
       >   - [x] Dependabot
       >   - [x] Topics
-      >   - [ ] Sidebar (releases, env, packages)
+      >   - [x] Sidebar (releases, env, packages)
       >   - [ ] README
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
