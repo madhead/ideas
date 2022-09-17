@@ -467,7 +467,7 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CONTRIBUTING
       >   - [ ] CODE_OF_CONDUCT 
       > - [ ] madhead/semver-utils
-      >   - [ ] Social image
+      >   - [x] Social image
       >   - [ ] Features (wikis, issues, pages, sponsorship)
       >   - [ ] Merge button
       >   - [ ] Branch protection rules
