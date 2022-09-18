@@ -759,6 +759,13 @@ Lifelong backlog of ideas to implement.
       > The idea is to have a service / app to create and visualize these DAGs.
     </details>
 
+1. [Successful people's calendars / schedules](https://github.com/madhead/ideas/issues/46)
+    <details>
+      <summary>Details:</summary>
+
+      > A service like https://biohackstack.com but showing calendars / schedules of productive people.
+    </details>
+
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
     <details>
       <summary>Details:</summary>
