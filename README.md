@@ -615,17 +615,24 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
-1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
-1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
-1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
-1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
-1. [ActivityWatch plugin for Telegram status updates](https://github.com/madhead/ideas/issues/47)
+1. [ActivityWatch plugin for Telegram status updates](https://github.com/madhead/ideas/issues/47) ┃ ✨ × 1
     <details>
       <summary>Details:</summary>
 
       > Update Telegram status to the icon of the app the user is using.
     </details>
 
+1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
+1. [Successful people's calendars / schedules](https://github.com/madhead/ideas/issues/46) ┃ ✨ × 1
+    <details>
+      <summary>Details:</summary>
+
+      > A service like https://biohackstack.com but showing calendars / schedules of productive people.
+    </details>
+
+1. [TG bot for pocker planning via Game API](https://github.com/madhead/ideas/issues/20) ┃ ✨ × 1
+1. [TG bot for retros via Game API](https://github.com/madhead/ideas/issues/21) ┃ ✨ × 1
+1. [24/7 YouTube stream](https://github.com/madhead/ideas/issues/10)
 1. [AlternativeTo but for offline](https://github.com/madhead/ideas/issues/39)
     <details>
       <summary>Details:</summary>
@@ -764,13 +771,6 @@ Lifelong backlog of ideas to implement.
       > ```
       > 
       > The idea is to have a service / app to create and visualize these DAGs.
-    </details>
-
-1. [Successful people's calendars / schedules](https://github.com/madhead/ideas/issues/46)
-    <details>
-      <summary>Details:</summary>
-
-      > A service like https://biohackstack.com but showing calendars / schedules of productive people.
     </details>
 
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
