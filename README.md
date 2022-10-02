@@ -598,6 +598,16 @@ Lifelong backlog of ideas to implement.
       >   - [ ] CODE_OF_CONDUCT 
     </details>
 
+1. 🚧 [Telegram bot that turns images into pixel art](https://github.com/madhead/ideas/issues/48) ┃ ✨ × 1
+    <details>
+      <summary>Details:</summary>
+
+      > - Create a [custom static emoji stickerpack](https://telegram.org/blog/custom-emoji) with "pixels", i.e. squares filled with solid color. TODO: how many colors could be supported? [120](https://limits.tginfo.me/en)?
+      > - The bot should accept the picture and respond with a message containing a pixelated version of the input image, composed of the emojis created previously.
+      > 
+      > Unfortunately, currently [bots are not able to send custom emojis](https://t.me/InMoTelegramBotAPIChat/6597). Thus, the implementation is blocked.
+    </details>
+
 1. 🚧 [Events from FB pages I like → Telegram / RSS](https://github.com/madhead/ideas/issues/40)
     <details>
       <summary>Details:</summary>
