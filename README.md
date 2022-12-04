@@ -750,6 +750,21 @@ Lifelong backlog of ideas to implement.
       > Because Anki MUST DIE.
     </details>
 
+1. [Simple OSS BLE Heart Rate tracker app](https://github.com/madhead/ideas/issues/49)
+    <details>
+      <summary>Details:</summary>
+
+      > - BLE Heart Rate sensors support. The profile It is **standardized** actually:
+      >   - https://www.bluetooth.com/specifications/specs/heart-rate-profile-1-0
+      >   - https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=239865
+      >   - https://www.bluetooth.com/specifications/assigned-numbers
+      >   - https://btprodspecificationrefs.blob.core.windows.net/assigned-numbers/Assigned%20Number%20Types/Health%20Device%20Profile.pdf
+      > - Own your data
+      >   - Easy data export in CSV and other open formats
+      >   - Optional server / API
+      >   - Optional Google Fit support
+    </details>
+
 1. [Simple fasting app with calendar integration and widget](https://github.com/madhead/ideas/issues/45)
 1. [Skills learning paths service / app](https://github.com/madhead/ideas/issues/43)
     <details>
