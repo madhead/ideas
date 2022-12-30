@@ -798,16 +798,6 @@ Lifelong backlog of ideas to implement.
       > The idea is to have a service / app to create and visualize these DAGs.
     </details>
 
-1. [TG Bot to quickly generate blured "pay $$$" images](https://github.com/madhead/ideas/issues/50)
-    <details>
-      <summary>Details:</summary>
-
-      > https://t.me/addmeto/5127
-      > 
-      > ![image](https://user-images.githubusercontent.com/577360/207036099-eef12918-bb94-4aa8-9806-1353276d1f0d.png)
-      > 
-    </details>
-
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
     <details>
       <summary>Details:</summary>
