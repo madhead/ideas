@@ -765,6 +765,7 @@ Lifelong backlog of ideas to implement.
       >   - Optional Google Fit support
     </details>
 
+1. [Simple fastening app + widget](https://github.com/madhead/ideas/issues/51)
 1. [Simple fasting app with calendar integration and widget](https://github.com/madhead/ideas/issues/45)
 1. [Skills learning paths service / app](https://github.com/madhead/ideas/issues/43)
     <details>
