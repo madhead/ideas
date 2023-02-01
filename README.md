@@ -799,6 +799,13 @@ Lifelong backlog of ideas to implement.
       > The idea is to have a service / app to create and visualize these DAGs.
     </details>
 
+1. [TG support bot with threads (topics)](https://github.com/madhead/ideas/issues/52)
+    <details>
+      <summary>Details:</summary>
+
+      > Create a topic (thread) for each customer request.
+    </details>
+
 1. [Virtual library management software (with pluggable cloud storage)](https://github.com/madhead/ideas/issues/25)
     <details>
       <summary>Details:</summary>
