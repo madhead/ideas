@@ -706,13 +706,6 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
-1. [Gradle ngrok plugin](https://github.com/madhead/ideas/issues/53)
-    <details>
-      <summary>Details:</summary>
-
-      > - https://docs.gradle.org/current/userguide/build_services.html
-    </details>
-
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
 1. [JMH engine for JUnit 5](https://github.com/madhead/ideas/issues/37)
     <details>
