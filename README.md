@@ -707,6 +707,7 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
+1. [Intermittent fasting but for apps](https://github.com/madhead/ideas/issues/54)
 1. [JMH engine for JUnit 5](https://github.com/madhead/ideas/issues/37)
     <details>
       <summary>Details:</summary>
