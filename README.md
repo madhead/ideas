@@ -814,6 +814,15 @@ Lifelong backlog of ideas to implement.
       > Because Calibre sucks, and local storage doesn't scale.
     </details>
 
+1. [Water jug reload reminder](https://github.com/madhead/ideas/issues/55)
+    <details>
+      <summary>Details:</summary>
+
+      > For old style water jugs without built-in counters
+      > 
+      > + reload date predictions
+    </details>
+
 1. [Yet Another Time Tracker](https://github.com/madhead/ideas/issues/2)
     <details>
       <summary>Details:</summary>
