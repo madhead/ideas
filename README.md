@@ -653,6 +653,13 @@ Lifelong backlog of ideas to implement.
       > 
     </details>
 
+1. [An atomic micro-notes personal wiki system](https://github.com/madhead/ideas/issues/56)
+    <details>
+      <summary>Details:</summary>
+
+      > https://t.me/full_of_hatred/821?comment=631295
+    </details>
+
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
 1. [Database of movies (shorts, clips, etc.) indexed by location](https://github.com/madhead/ideas/issues/42)
     <details>
