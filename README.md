@@ -690,6 +690,18 @@ Lifelong backlog of ideas to implement.
       > ### MyMiniFactory
       > 
       > MyMiniFactory has a REST API: https://www.myminifactory.com/api-doc/index.html.
+      > 
+      > ### Thangs
+      > 
+      > Thangs does not have an API.
+      > 
+      > ### GrabCAD
+      > 
+      > GrabCAD does not have an API.
+      > 
+      > ### Cults
+      > 
+      > Cults has a GraphQL API: https://cults3d.com/en/api
     </details>
 
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
