@@ -682,6 +682,14 @@ Lifelong backlog of ideas to implement.
       > ### Thingiverse
       > 
       > Thingiverse has a REST API secured with OAuth: https://www.thingiverse.com/developers/rest-api-reference and it is possible to publish things through it.
+      > 
+      > ### Printables
+      > 
+      > Printables does not have an API.
+      > 
+      > ### MyMiniFactory
+      > 
+      > MyMiniFactory has a REST API: https://www.myminifactory.com/api-doc/index.html.
     </details>
 
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
