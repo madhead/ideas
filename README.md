@@ -675,6 +675,7 @@ Lifelong backlog of ideas to implement.
       > As a photographer (videographer) I want to quickly find inspiration for my shots based on these and similar works.
     </details>
 
+1. [GH Actions to multiupload 3D models to the most popular sites](https://github.com/madhead/ideas/issues/57)
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
       <summary>Details:</summary>
