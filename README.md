@@ -676,6 +676,14 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [GH Actions to multiupload 3D models to the most popular sites](https://github.com/madhead/ideas/issues/57)
+    <details>
+      <summary>Details:</summary>
+
+      > ### Thingiverse
+      > 
+      > Thingiverse has a REST API secured with OAuth: https://www.thingiverse.com/developers/rest-api-reference and it is possible to publish things through it.
+    </details>
+
 1. [GH Kotlin API from OpenAPI specs](https://github.com/madhead/ideas/issues/8)
     <details>
       <summary>Details:</summary>
