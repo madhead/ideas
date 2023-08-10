@@ -742,6 +742,16 @@ Lifelong backlog of ideas to implement.
       > Maybe implementing it with a crypto (ETH, BTC) is not that hard?
     </details>
 
+1. [GitHub timeline themed keyboard](https://github.com/madhead/ideas/issues/58)
+    <details>
+      <summary>Details:</summary>
+
+      > ![image](https://github.com/madhead/ideas/assets/577360/baaf373a-a46e-4087-be64-92828214be1c)
+      > 
+      > ![image](https://github.com/madhead/ideas/assets/577360/310aee32-3d05-46f2-b78c-601104c2d05b)
+      > 
+    </details>
+
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
 1. [Intermittent fasting but for apps](https://github.com/madhead/ideas/issues/54)
 1. [JMH engine for JUnit 5](https://github.com/madhead/ideas/issues/37)
