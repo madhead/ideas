@@ -633,6 +633,16 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [Habit tracket TG bot](https://github.com/madhead/ideas/issues/19) ┃ ✨ × 1
+1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6) ┃ ✨ × 1
+    <details>
+      <summary>Details:</summary>
+
+      > Stolen from borodutch
+      > 
+      > > for channel and chat owners — just add the bot as admin, select the price per month and withdraw crypto at any time; get a link to share with potential subscribers. For subscribers — go to the link, pay the membership fee, get invited by the bot to the private channel or group. The bot should kick people who didn't renew their membership.
+      > 
+    </details>
+
 1. [Successful people's calendars / schedules](https://github.com/madhead/ideas/issues/46) ┃ ✨ × 1
     <details>
       <summary>Details:</summary>
@@ -773,16 +783,6 @@ Lifelong backlog of ideas to implement.
 
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [OSS FatSecret app with Google Fit integration](https://github.com/madhead/ideas/issues/44)
-1. [Paid Telegram channels monetization bot](https://github.com/madhead/ideas/issues/6)
-    <details>
-      <summary>Details:</summary>
-
-      > Stolen from borodutch
-      > 
-      > > for channel and chat owners — just add the bot as admin, select the price per month and withdraw crypto at any time; get a link to share with potential subscribers. For subscribers — go to the link, pay the membership fee, get invited by the bot to the private channel or group. The bot should kick people who didn't renew their membership.
-      > 
-    </details>
-
 1. [Recipes management app](https://github.com/madhead/ideas/issues/38)
     <details>
       <summary>Details:</summary>
