@@ -685,6 +685,13 @@ Lifelong backlog of ideas to implement.
       > As a photographer (videographer) I want to quickly find inspiration for my shots based on these and similar works.
     </details>
 
+1. [Easy SVG maps service](https://github.com/madhead/ideas/issues/59)
+    <details>
+      <summary>Details:</summary>
+
+      > QGIS?
+    </details>
+
 1. [GH Actions to multiupload 3D models to the most popular sites](https://github.com/madhead/ideas/issues/57)
     <details>
       <summary>Details:</summary>
