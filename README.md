@@ -625,6 +625,38 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
+1. [Skills learning paths service / app](https://github.com/madhead/ideas/issues/43) ┃ 💬 × 1
+    <details>
+      <summary>Details:</summary>
+
+      > Every complex skill could be decomposed into a DAG of smaller, less complex, skills. Just like a tree of talents in an RPG game. E.g. being "full-stack developer" could be decomposed like this:
+      > 
+      > ```mermaid
+      > graph TD;
+      >     JS[JavaScript]
+      >     R[React]
+      >     CSS[CSS]
+      >     F[Front-end]
+      > 
+      >     K[Kotlin]
+      >     DB[Databases]
+      >     B[Back-end]
+      > 
+      >     FS[Full-stack]
+      > 
+      >     JS --> R;
+      >     R --> F;
+      >     CSS --> F;
+      >     F --> FS;
+      > 
+      >     K --> B;
+      >     DB --> B;
+      >     B --> FS;
+      > ```
+      > 
+      > The idea is to have a service / app to create and visualize these DAGs.
+    </details>
+
 1. [ActivityWatch plugin for Telegram status updates](https://github.com/madhead/ideas/issues/47) ┃ ✨ × 1
     <details>
       <summary>Details:</summary>
@@ -822,38 +854,6 @@ Lifelong backlog of ideas to implement.
 
 1. [Simple fastening app + widget](https://github.com/madhead/ideas/issues/51)
 1. [Simple fasting app with calendar integration and widget](https://github.com/madhead/ideas/issues/45)
-1. [Skills learning paths service / app](https://github.com/madhead/ideas/issues/43)
-    <details>
-      <summary>Details:</summary>
-
-      > Every complex skill could be decomposed into a DAG of smaller, less complex, skills. Just like a tree of talents in an RPG game. E.g. being "full-stack developer" could be decomposed like this:
-      > 
-      > ```mermaid
-      > graph TD;
-      >     JS[JavaScript]
-      >     R[React]
-      >     CSS[CSS]
-      >     F[Front-end]
-      > 
-      >     K[Kotlin]
-      >     DB[Databases]
-      >     B[Back-end]
-      > 
-      >     FS[Full-stack]
-      > 
-      >     JS --> R;
-      >     R --> F;
-      >     CSS --> F;
-      >     F --> FS;
-      > 
-      >     K --> B;
-      >     DB --> B;
-      >     B --> FS;
-      > ```
-      > 
-      > The idea is to have a service / app to create and visualize these DAGs.
-    </details>
-
 1. [TG support bot with threads (topics)](https://github.com/madhead/ideas/issues/52)
     <details>
       <summary>Details:</summary>
