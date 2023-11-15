@@ -672,6 +672,15 @@ Lifelong backlog of ideas to implement.
 
 1. [CS tycoon game](https://github.com/madhead/ideas/issues/60)
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
+1. [Collaborative whiteboard TG bot](https://github.com/madhead/ideas/issues/61)
+    <details>
+      <summary>Details:</summary>
+
+      > - https://github.com/tldraw/tldraw
+      > - https://tldraw.dev
+      > - https://github.com/yjs/yjs
+    </details>
+
 1. [Database of movies (shorts, clips, etc.) indexed by location](https://github.com/madhead/ideas/issues/42)
     <details>
       <summary>Details:</summary>
