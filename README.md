@@ -807,6 +807,15 @@ Lifelong backlog of ideas to implement.
       > - [256-recipes/yuml](https://github.com/256-recipes/yuml)
     </details>
 
+1. [Remote distributed Blender Render](https://github.com/madhead/ideas/issues/62)
+    <details>
+      <summary>Details:</summary>
+
+      > 1. Render separate frames in a farm
+      > 2. Stitch
+      > 3. PROFIT!
+    </details>
+
 1. [SRS](https://github.com/madhead/ideas/issues/4)
     <details>
       <summary>Details:</summary>
