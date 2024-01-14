@@ -817,6 +817,13 @@ Lifelong backlog of ideas to implement.
       > 3. PROFIT!
     </details>
 
+1. [Rotate UHK modules](https://github.com/madhead/ideas/issues/64)
+    <details>
+      <summary>Details:</summary>
+
+      > A simple 3D printed thing to rotate them
+    </details>
+
 1. [SRS](https://github.com/madhead/ideas/issues/4)
     <details>
       <summary>Details:</summary>
