@@ -824,6 +824,15 @@ Lifelong backlog of ideas to implement.
       > A simple 3D printed thing to rotate them
     </details>
 
+1. [SCARA-like tabletop lamp](https://github.com/madhead/ideas/issues/65)
+    <details>
+      <summary>Details:</summary>
+
+      > ![image](https://github.com/madhead/ideas/assets/577360/cc28eea1-9acd-487e-afa8-56054fc699ce)
+      > 
+      > (this is not SCARA, but just an inspiration)
+    </details>
+
 1. [SRS](https://github.com/madhead/ideas/issues/4)
     <details>
       <summary>Details:</summary>
