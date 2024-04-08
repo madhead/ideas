@@ -672,6 +672,14 @@ Lifelong backlog of ideas to implement.
 
 1. [CS tycoon game](https://github.com/madhead/ideas/issues/60)
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
+1. [Cinematic Robot Arm](https://github.com/madhead/ideas/issues/66)
+    <details>
+      <summary>Details:</summary>
+
+      > ![image](https://github.com/madhead/ideas/assets/577360/8b3ccd13-9733-496a-8b6c-824fd217f2cd)
+      > 
+    </details>
+
 1. [Collaborative whiteboard TG bot](https://github.com/madhead/ideas/issues/61)
     <details>
       <summary>Details:</summary>
