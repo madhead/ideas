@@ -787,6 +787,7 @@ Lifelong backlog of ideas to implement.
       > 
     </details>
 
+1. [Gradle localtunnel plugin](https://github.com/madhead/ideas/issues/67)
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
 1. [IntelliJ IDEA Fly.io plugin](https://github.com/madhead/ideas/issues/63)
 1. [Intermittent fasting but for apps](https://github.com/madhead/ideas/issues/54)
