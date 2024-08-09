@@ -866,6 +866,13 @@ Lifelong backlog of ideas to implement.
 
 1. [Simple fastening app + widget](https://github.com/madhead/ideas/issues/51)
 1. [Simple fasting app with calendar integration and widget](https://github.com/madhead/ideas/issues/45)
+1. [Store Code Discussions in Git using Git Notes: GitHub Actions Edition!](https://github.com/madhead/ideas/issues/68)
+    <details>
+      <summary>Details:</summary>
+
+      > https://wouterj.nl/2024/08/git-notes
+    </details>
+
 1. [TG support bot with threads (topics)](https://github.com/madhead/ideas/issues/52)
     <details>
       <summary>Details:</summary>
