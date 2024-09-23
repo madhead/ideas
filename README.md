@@ -808,6 +808,7 @@ Lifelong backlog of ideas to implement.
       > Like https://github.com/Heapy/Komodo-CRM
     </details>
 
+1. [Modular V-Slot camera pan + tilt slider](https://github.com/madhead/ideas/issues/69)
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
 1. [OSS FatSecret app with Google Fit integration](https://github.com/madhead/ideas/issues/44)
 1. [Recipes management app](https://github.com/madhead/ideas/issues/38)
