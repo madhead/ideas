@@ -633,6 +633,13 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [K8S cluster for side projects](https://github.com/madhead/ideas/issues/15) ┃ 💬 × 1
+1. [SRS](https://github.com/madhead/ideas/issues/4) ┃ 💬 × 1
+    <details>
+      <summary>Details:</summary>
+
+      > Because Anki MUST DIE.
+    </details>
+
 1. [ActivityWatch plugin for Telegram status updates](https://github.com/madhead/ideas/issues/47) ┃ ✨ × 1
     <details>
       <summary>Details:</summary>
@@ -841,13 +848,6 @@ Lifelong backlog of ideas to implement.
       > ![image](https://github.com/madhead/ideas/assets/577360/cc28eea1-9acd-487e-afa8-56054fc699ce)
       > 
       > (this is not SCARA, but just an inspiration)
-    </details>
-
-1. [SRS](https://github.com/madhead/ideas/issues/4)
-    <details>
-      <summary>Details:</summary>
-
-      > Because Anki MUST DIE.
     </details>
 
 1. [Simple OSS BLE Heart Rate tracker app](https://github.com/madhead/ideas/issues/49)
