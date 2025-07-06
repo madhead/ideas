@@ -1,10 +1,10 @@
 package me.madhead.ideas.github.api
 
 import io.ktor.client.HttpClient
-import io.ktor.http.URLBuilder
+import io.ktor.http.Url
 
-open class Request<T>(
-    protected val url: URLBuilder,
+open class Request(
+    protected val url: Url,
     protected val headers: Map<String, List<String>>,
     protected val httpClient: HttpClient,
 )

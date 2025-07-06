@@ -10,7 +10,8 @@ dependencies {
     implementation(libs.kotlin.stdlib.jdk8)
     implementation(libs.koin.core)
     implementation(libs.ktor.client.java)
-    implementation(libs.ktor.client.serialization)
+    implementation(libs.ktor.client.content.negotiation)
+    implementation(libs.ktor.serialization.kotlinx.json)
     implementation(libs.ktor.client.auth)
 
     testImplementation(libs.junit.jupiter.api)
@@ -23,17 +24,17 @@ application {
     mainClass.set("me.madhead.ideas.AppKt")
 }
 
-tasks {
-    withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
-        kotlinOptions {
-            languageVersion = "1.6"
-            freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
-        }
-    }
-    withType<Test> {
-        useJUnitPlatform()
-        testLogging {
-            showStandardStreams = true
+testing {
+    suites {
+        val test by getting(JvmTestSuite::class) {
+            useJUnitJupiter()
+            targets.configureEach {
+                testTask {
+                    testLogging {
+                        showStandardStreams = true
+                    }
+                }
+            }
         }
     }
 }
