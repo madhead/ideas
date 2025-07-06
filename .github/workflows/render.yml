@@ -26,12 +26,15 @@ jobs:
     needs: debounce
     if: ${{ needs.debounce.outputs.debounce != 'true' }}
     runs-on: ubuntu-latest
+    permissions:
+      issues: read
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: docker://ghcr.io/madhead/ideas:latest
         with:
           args: README.md
         env:
           LABEL_IDEA: ${{ secrets.LABEL_IDEA }}
           TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v6
