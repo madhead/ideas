@@ -685,7 +685,6 @@ Lifelong backlog of ideas to implement.
       > https://t.me/full_of_hatred/821?comment=631295
     </details>
 
-1. [CS tycoon game](https://github.com/madhead/ideas/issues/60)
 1. [Categorize GH stars](https://github.com/madhead/ideas/issues/31)
 1. [Collaborative whiteboard TG bot](https://github.com/madhead/ideas/issues/61)
     <details>
