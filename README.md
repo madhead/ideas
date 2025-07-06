@@ -798,6 +798,7 @@ Lifelong backlog of ideas to implement.
 1. [IDEA Time Tracking + Clockify](https://github.com/madhead/ideas/issues/24)
 1. [IntelliJ IDEA Fly.io plugin](https://github.com/madhead/ideas/issues/63)
 1. [Intermittent fasting but for apps](https://github.com/madhead/ideas/issues/54)
+1. [Inventory plugin for HA (like Homebox, but native to HA)](https://github.com/madhead/ideas/issues/70)
 1. [JMH engine for JUnit 5](https://github.com/madhead/ideas/issues/37)
     <details>
       <summary>Details:</summary>
