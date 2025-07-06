@@ -1,4 +1,4 @@
-ARG JAVA=17
+ARG JAVA=21
 
 FROM openjdk:${JAVA}
 
