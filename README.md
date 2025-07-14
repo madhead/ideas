@@ -817,6 +817,7 @@ Lifelong backlog of ideas to implement.
 
 1. [Modular V-Slot camera pan + tilt slider](https://github.com/madhead/ideas/issues/69)
 1. [Mood calendar](https://github.com/madhead/ideas/issues/9)
+1. [NOTHING icon pack for ALL my apps in their BWR colors](https://github.com/madhead/ideas/issues/72)
 1. [OSS FatSecret app with Google Fit integration](https://github.com/madhead/ideas/issues/44)
 1. [Recipes management app](https://github.com/madhead/ideas/issues/38)
     <details>
