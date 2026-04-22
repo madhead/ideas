@@ -828,6 +828,13 @@ Lifelong backlog of ideas to implement.
     </details>
 
 1. [OSS FatSecret app with Google Fit integration](https://github.com/madhead/ideas/issues/44)
+1. [P2P renting platform](https://github.com/madhead/ideas/issues/73)
+    <details>
+      <summary>Details:</summary>
+
+      > Something like https://plenti.app or wypożyczalnia @ OLX, but for individuals. Where they could list their assets and arrange short-term rents.
+    </details>
+
 1. [Recipes management app](https://github.com/madhead/ideas/issues/38)
     <details>
       <summary>Details:</summary>
